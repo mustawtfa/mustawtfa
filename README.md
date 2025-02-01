@@ -1,9 +1,9 @@
 # Mustafa Çakı – A Young Visionary in Technology 🚀
 
-Hi there! I'm Mustafa, a 15-year-old developer and entrepreneur from Turkey with a passion for innovative technology. I work with languages like Dart, C, C#, JavaScript, HTML, CSS, and PHP, and I’m constantly pushing boundaries in the tech world.
+Hi there! I'm Mustafa, a 15-year-old developer and entrepreneur from Turkiye with a passion for innovative technology. I work with languages like Dart, C, C#, JavaScript, HTML, CSS, and PHP, and I’m constantly pushing boundaries in the tech world.
 
 ## Early Achievements & Education 🎓
-- **Mustafa Saffet Fen Lisesi** – I studied at one of Turkey's most prestigious science high schools.
+- **Mustafa Saffet Fen Lisesi** – I studied at one of Turkiye's most prestigious science high schools.
 - Finalist in the **Bayraksende Capture The Flag (CTF)** competition, where my problem-solving skills and cybersecurity know-how shone through.
 
 ## The Genesis of Vertex Corporation ⚡
@@ -28,10 +28,10 @@ In the next 3–5 years, Vertex aims to:
 - **Drive Innovation:** Enhance AI capabilities with custom model training and further integrate Drome.
 - **Formalize & Integrate:** Become a legally established global tech leader with a unified ecosystem of Vertex products.
 - **Diversify:** Venture into music, animation, anti-cheat tech, and new gaming experiences.
-- **Contribute Locally:** Boost Turkey’s tech scene through job creation and technology education.
+- **Contribute Locally:** Boost Turkiye's tech scene through job creation and technology education.
 
 ## Personal Ethos & Ambition 💡
-At just 15, I believe passion and determination know no age. I strive to foster a collaborative, open, and forward-thinking community. Through Vertex, I aim to inspire young developers and reshape the future of AI and tech—both in Turkey and around the world.
+At just 15, I believe passion and determination know no age. I strive to foster a collaborative, open, and forward-thinking community. Through Vertex, I aim to inspire young developers and reshape the future of AI and tech—both in Turkiye and around the world.
 
 ---
 

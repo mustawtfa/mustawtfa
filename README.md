@@ -23,7 +23,7 @@ In June 2023, I founded **Vertex Corporation** (formerly Vertex Games) in Istanb
 Our first mobile game, launched in July 2023 in just 48 hours, achieved over 20,000 downloads and reached millions of users—all without external investment. This success proved that grassroots marketing and passion can create real impact.
 
 ### Polyhedron
-In July 2024, we expanded into the music industry with **Polyhedron**—a label that unites young talent. Through innovative digital strategies, Polyhedron now enjoys hundreds of monthly listeners on Spotify.
+In July 2024, we expanded into the music industry with **Polyhedron** a label that unites young talent. Through innovative digital strategies, Polyhedron now enjoys hundreds of monthly listeners on Spotify.
 
 ### Cortex – The Vertex of Artificial Intelligence
 Cortex is our flagship AI application offering a dual-mode experience:
@@ -42,12 +42,6 @@ Cortex allows users to engage with customizable AI characters and even upload th
 - Enhanced privacy and security features,
 - An offline download system that allows users to access content without an internet connection.
 Solar is engineered to deliver a smooth browsing experience without relying on Chromium.
-
-### Vertex App – A Versatile Launcher
-**Vertex App** is our custom launcher designed to unify your digital experience. With innovative features such as offline downloading capabilities, it offers a streamlined and customizable interface that enhances productivity and user engagement.
-
-### Lora – Online Science Learning Platform
-**Lora** is an upcoming project designed to revolutionize online science education. It will provide a dynamic platform for learners to access engaging, interactive science content, making advanced scientific knowledge accessible to everyone, regardless of location.
 
 ### Other Innovations
 - **Sureward:**  

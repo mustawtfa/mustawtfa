@@ -1,10 +1,10 @@
 # Mustafa Çakı – A Young Visionary in Technology
 
-Hi there! I'm Mustafa, a 16-year-old developer and entrepreneur from Turkiye with an insatiable passion for innovative technology. Since 2018, I've immersed myself in software and game development—absorbing knowledge through online and in-person courses. My journey has equipped me with expertise in Dart, C, C#, JavaScript, HTML, CSS, PHP, and tools like CMake and Flutter.
+Hi there! I'm Mustafa, a 16-year-old developer and entrepreneur from Turkiye with an insatiable passion for innovative technology. Since 2018, I've immersed myself in software and game development absorbing knowledge through online and in-person courses. My journey has equipped me with expertise in Dart, C, C#, JavaScript, HTML, CSS, PHP, and tools like CMake and Flutter.
 
 ## Early Achievements & Education 🎓
 - **Bilim Sanat Merkezi (BİLSEM):**  
-  I was accepted into BİLSEM—the elite science and art center for gifted children in Turkiye—at the age of 6.
+  I was accepted into BİLSEM, the elite science and art center for gifted children in Turkiye, at the age of 6.
 - **Mustafa Saffet Fen Lisesi:**  
   I studied at one of Turkiye's most prestigious science high schools, sharpening my technical skills and academic excellence.
 - **CTF & BTK Certificates:**  
@@ -69,4 +69,4 @@ At just 15, I believe that passion and determination transcend age. I strive to 
 
 ---
 
-Thanks for stopping by—join me on this exciting journey as we push the boundaries of technology and innovation!
+Thanks for stopping by join me on this exciting journey as we push the boundaries of technology and innovation!

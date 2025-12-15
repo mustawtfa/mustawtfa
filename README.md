@@ -65,7 +65,7 @@ Over the next 3–5 years, Vertex aims to:
   Foster job creation and technology education across the nation.
 
 ## Personal Ethos & Ambition 💡
-At just 15, I believe that passion and determination transcend age. I strive to build a collaborative, open, and forward-thinking community. Through Vertex, I aim to inspire young developers and transform the future of AI and technology in Turkiye and beyond.
+At just 16, I believe that passion and determination transcend age. I strive to build a collaborative, open, and forward-thinking community. Through Vertex, I aim to inspire young developers and transform the future of AI and technology in Turkiye and beyond.
 
 ---
 
